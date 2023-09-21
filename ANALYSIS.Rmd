@@ -1,9 +1,10 @@
 ---
-title: "Personal Loan Analysis: Project 2 Stats 2 DataScience@SMU Summer 2022"
-author: "Laura Ahumada, Erin McClure-Price, Duy Nguyen"
-date: "07/16/2022"
-output: html_document
-editor_options: 
+title: 'Personal Loan Analysis'
+author: "Duy Nguyen"
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
   chunk_output_type: console
 ---
 
